@@ -1,0 +1,2 @@
+# UAreASquare
+JavaScript CodeWars Exercise
